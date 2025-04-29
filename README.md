@@ -16,5 +16,6 @@ By this demo API project named dmoney, we can create several types of use role l
 - Report will be generated in Reports folder!
 
 # Test Report
-![image](https://github.com/user-attachments/assets/0999778e-efdc-4205-9fe9-bc3a6df0d2e1)
+![image](https://github.com/user-attachments/assets/1ae1677c-9dc7-475f-bb77-a3e18e1ff946)
+
 
